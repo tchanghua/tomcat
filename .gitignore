@@ -1,0 +1,5 @@
+# Default ignored files
+/Minicat/.idea/workspace.xml
+/Minicat/.idea
+/Minicat/target
+*.iml
